@@ -1,0 +1,9 @@
+name: Lecture-notebook-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - interact
+  - scipy
+  - sympy
